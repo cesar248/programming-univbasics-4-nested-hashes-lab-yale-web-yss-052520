@@ -87,7 +87,7 @@ return the entire updated hash
       :languages => ["LISP", "C"]
     }
    return programmer_hash
-    
+
 end
 
 def changing_alan
